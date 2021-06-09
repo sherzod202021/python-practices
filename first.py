@@ -17,4 +17,12 @@ else:
 text1 = "Bugun IT park dasturchilarini sertifikat oladigan kuni"
 print("sertifikatlar" not in text1)
 print("sertifikatlar" in text1)
+
+
+
+
+text2 = "Bugun IT park dasturchilari uchun omadli kun chunki bugun sertifikat olishiyapti"
+print(text2[2:12])
+print(text2[-12:-2])
+print(text2[:8])
 		
