@@ -12,4 +12,9 @@ if "IT park dasturchilarii" in text:
 	print("Ushbu matnda 'IT park dasturchilari' sozi mavjud")
 else:
 	print("Ushbu matnda 'IT park dasturchilari' sozi mavjud emas")
+
+
+text1 = "Bugun IT park dasturchilarini sertifikat oladigan kuni"
+print("sertifikatlar" not in text1)
+print("sertifikatlar" in text1)
 		
