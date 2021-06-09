@@ -5,4 +5,11 @@ if "lekint" in matnn:
 	print("To'g'ri topdingiz ushbu matnda lekin so'zi mavjud")
 else:
 	print("Ushbu matnda lekin so'zi mavjud emas")
+
+
+text = "Surxondaryo viloyati Sariosiyo tumani IT park dasturchilari bugun bitiruvchi sertifikatini olishdi"
+if "IT park dasturchilarii" in text:
+	print("Ushbu matnda 'IT park dasturchilari' sozi mavjud")
+else:
+	print("Ushbu matnda 'IT park dasturchilari' sozi mavjud emas")
 		
